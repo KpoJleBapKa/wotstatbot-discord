@@ -1,8 +1,8 @@
 # WotStat BOT
 
-**This bot will be useful for you if you want to find WOT-players statistic**<br>
-**Bot functions:**
+**This bot will be useful for you if you want to find WOT-players statistic.**<br>
 
+**Bot functions:**
   - Displaying statistic via message
 
 **How to use:**
