@@ -14,7 +14,6 @@ async def on_ready():
 
 @bot.command(name='findstat')
 async def find_stat(ctx, *args):
-    print(ctx.message.content)
     if not args:
         await ctx.send('Невірно введена команда. Приклад: !findstat KpoJleBapKa')
         return
