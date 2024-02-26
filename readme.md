@@ -1,4 +1,4 @@
-# Activity BOT by Kroll V4.0
+# WotStat BOT
 
 **This bot will be useful for you if you want to find WOT-players statistic**<br>
 **Bot functions:**
