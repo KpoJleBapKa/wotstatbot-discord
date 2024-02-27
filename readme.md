@@ -6,7 +6,11 @@
   - Displaying statistic via message
 
 **How to use:**
-  - !findstat "nicn-name"
+  - !findstat 'nick_name' - find out the player's statistics
+  - !findclan 'clan_name' - find out information about the clan
+  - !gm_battles 'clan_name' - find out upcoming clan battles on the Global Map
+  - !gm_stat 'clan_name' - find out clan statistics on the Global Map
+  - !clan_members 'clan_name' - find out the number and statistics of clan players
   
 ## FAQ:
 
